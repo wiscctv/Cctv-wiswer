@@ -1,0 +1,21 @@
+
+[
+  {
+    "name": "Kamera CCTV HD",
+    "description": "Resolusi tinggi, cocok untuk indoor & outdoor.",
+    "price": 550000,
+    "image": "images/cctv1.jpg"
+  },
+  {
+    "name": "DVR 4 Channel",
+    "description": "Dapat merekam hingga 4 kamera sekaligus.",
+    "price": 750000,
+    "image": "images/dvr.jpg"
+  },
+  {
+    "name": "Paket 4 Kamera + DVR",
+    "description": "Paket lengkap dengan instalasi.",
+    "price": 2500000,
+    "image": "images/package.jpg"
+  }
+]
